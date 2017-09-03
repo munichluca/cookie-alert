@@ -1,6 +1,7 @@
 # cookie-popup
 Cookie privacy popup alert in JavaScript
 
+![logo](https://github.com/munichluca/cookie-popup/blob/master/logo.png)
 
 How to use
 1) Download the file.
